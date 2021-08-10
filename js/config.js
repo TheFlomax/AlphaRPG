@@ -2,8 +2,8 @@ const GLOBALS = {
     NAME: "AlphaRPG",
     VERSION: "3.1",
     BETA: false,
-    RELICS_NAMES: ["Relique d'Arès", "Relique de l'Arbre Monde", "Relique d'Hermès", "Relique de Vulcain", "Pas une Relique"],
-    THREATS: ["", "NORMAL", "AVANCÉ", "SUPERIEUR", "VÉTÉRAN", "ÉLITE", "BOSS", "DIEUX"],
+    RELICS_NAMES: ["Relique d'Arès", "Relique de Yggdrasil", "Relique d'Hermès", "Relique de Vulcain", "Relique Détruite"],
+    THREATS: ["", "NORMAL", "AVANCÉ", "SUPERIEUR", "VÉTÉRAN", "ÉLITE", "BOSS", "DIEU"],
     ARMORS_NAMES: {
         Normal: ['Minuscule', 'Maudit', 'En Ruine', 'Endomagé', 'Inutilisable', 'Rouiller', 'Fragilisé', 'Brisé'],
         Common: ['Bof', 'Petit', 'Fragile', 'Ébréché', 'Faible', 'Utilisé', 'Usé', 'Basique'],
